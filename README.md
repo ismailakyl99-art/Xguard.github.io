@@ -1,5 +1,4 @@
 # Xguard.github.io
-xguard gizlilik sözleşmesi 
 !DOCTYPE html>
 <html lang="tr">
 <head>
