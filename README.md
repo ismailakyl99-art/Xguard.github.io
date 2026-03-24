@@ -136,7 +136,7 @@
 
 <div class="section">
 <h2>10. İletişim</h2>
-<p>E-posta: support@xguard.app<br>
+<p>E-posta: ismailakyol77@gmail.com<br>
 Uygulama: XGuard - SMS Filtre<br>
 Geliştirici: XGuard Team</p>
 </div>
@@ -264,7 +264,7 @@ Geliştirici: XGuard Team</p>
 
 <div class="section">
 <h2>13. İletişim</h2>
-<p>E-posta: support@xguard.app<br>
+<p>E-posta: ismailakyol777@gmail.com<br>
 Uygulama: XGuard - SMS Filtre<br>
 Geliştirici: XGuard Team</p>
 </div>
