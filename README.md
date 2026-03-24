@@ -126,7 +126,7 @@
 <div class="section">
 <h2>8. Haklarınız</h2>
 <p>KVKK kapsamında veri erişim, düzeltme ve silme haklarına sahipsiniz.</p>
-<p>İletişim: support@xguard.app</p>
+<p>İletişim: ismailakyol777@gmail.com</p>
 </div>
 
 <div class="section">
@@ -136,7 +136,7 @@
 
 <div class="section">
 <h2>10. İletişim</h2>
-<p>E-posta: ismailakyol77@gmail.com<br>
+<p>E-posta: ismailakyol777@gmail.com<br>
 Uygulama: XGuard - SMS Filtre<br>
 Geliştirici: XGuard Team</p>
 </div>
