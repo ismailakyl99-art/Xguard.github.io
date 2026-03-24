@@ -1,60 +1,162 @@
+<!DOCTYPE html>
 <html lang="tr">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>XGuard Gizlilik Politikası</title>
-<style>
-  body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #333; }
-  h1, h2 { color: #1A73E8; }
-  h1 { text-align: center; }
-  p { margin-bottom: 10px; }
-  ul { margin-left: 20px; }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XGuard - Gizlilik Politikası & Kullanım Koşulları</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+            color: #1d1d1f;
+        }
+        h1 {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            margin-top: 40px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .section {
+            margin-bottom: 25px;
+        }
+        .header {
+            background: #f5f5f7;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+    </style>
 </head>
 <body>
 
-<h1>XGuard Gizlilik Politikası</h1>
-<p><strong>Güncelleme Tarihi:</strong> 18 Mart 2026</p>
+<h1>XGuard</h1>
 
-<p>XGuard (“biz”, “bizim” veya “Uygulama”), kullanıcıların SMS mesajlarını filtrelemeye yardımcı olan bir uygulamadır. Kullanıcı gizliliği bizim için önemlidir. Bu gizlilik politikası, Uygulama aracılığıyla hangi bilgileri topladığımızı, nasıl kullandığımızı ve koruduğumuzu açıklar.</p>
+<div class="header">
+<p><strong>Gizlilik Politikası & Kullanım Koşulları</strong></p>
+<p>Son Güncelleme: Mart 2025</p>
+</div>
 
-<h2>1. Toplanan Bilgiler</h2>
-<p>XGuard, kullanıcı deneyimini geliştirmek amacıyla aşağıdaki bilgileri toplayabilir:</p>
+<!-- GİZLİLİK POLİTİKASI -->
+
+<h2>🔐 Gizlilik Politikası</h2>
+
+<div class="section">
+<h3>1. Giriş</h3>
+<p>XGuard, kullanıcı gizliliğini ön planda tutar. Bu politika hangi verilerin toplandığını ve nasıl kullanıldığını açıklar.</p>
+</div>
+
+<div class="section">
+<h3>2. Toplanan Veriler</h3>
+
+<p><strong>Yerel Veriler:</strong></p>
 <ul>
-  <li><strong>SMS İçeriği:</strong> Spam veya dolandırıcılık mesajlarını tespit etmek için mesaj başlığı ve gönderen bilgisi analiz edilir. Kişisel mesajlar saklanmaz veya paylaşılmaz.</li>
-  <li><strong>Cihaz Bilgisi:</strong> İşletim sistemi sürümü, cihaz modeli ve uygulama sürümü gibi teknik bilgiler performans iyileştirmesi için kullanılır.</li>
-  <li><strong>Analitik Veriler:</strong> Uygulama kullanım sıklığı ve engellenen mesaj sayısı gibi anonim bilgiler hizmet kalitesini artırmak için kullanılabilir.</li>
+<li>Filtre kuralları</li>
+<li>Filtrelenen mesajlar</li>
+<li>Engellenen numaralar</li>
+<li>Uygulama ayarları</li>
 </ul>
 
-<h2>2. Bilgi Kullanımı</h2>
-<p>Toplanan bilgiler yalnızca şu amaçlarla kullanılır:</p>
+<p>Bu veriler cihazda tutulur ve silindiğinde yok olur.</p>
+
+<p><strong>AI Özelliği (Opsiyonel):</strong></p>
 <ul>
-  <li>Spam ve dolandırıcılık mesajlarını filtrelemek ve kullanıcıyı uyarmak.</li>
-  <li>Uygulamanın performansını ve kararlılığını artırmak.</li>
-  <li>Yasal yükümlülüklere uymak ve kötüye kullanımı önlemek.</li>
+<li>Mesaj içeriği ve numara analiz için gönderilebilir</li>
+<li>Analiz sonrası saklanmaz</li>
 </ul>
 
-<h2>3. Bilgi Paylaşımı</h2>
-<p>XGuard, kullanıcı verilerini üçüncü taraflarla paylaşmaz, satmaz veya kiralamaz. Yalnızca yasal zorunluluk durumunda ve anonim veriler üzerinden analitik amaçlarla güvenilir hizmet sağlayıcılarla paylaşım yapılabilir.</p>
-
-<h2>4. Veri Güvenliği</h2>
+<p><strong>Toplanmayan Veriler:</strong></p>
 <ul>
-  <li>Tüm SMS verileri cihaz üzerinde işlenir ve bulut sunucularında depolanmaz.</li>
-  <li>Kullanıcı verileri yetkisiz erişim, değişiklik veya ifşaya karşı endüstri standartlarına uygun şekilde korunur.</li>
+<li>Kişisel bilgiler (ad, email vs.)</li>
+<li>Konum</li>
+<li>Kamera / mikrofon</li>
 </ul>
+</div>
 
-<h2>5. Kullanıcı Hakları</h2>
-<p>Kullanıcılar, uygulamada topladığımız bilgileri görüntüleme, silme veya paylaşımını durdurma hakkına sahiptir. Bu talepler için <a href="mailto:support@xguard.com">support@xguard.com</a> adresine e-posta gönderebilirler.</p>
+<div class="section">
+<h3>3. Veri Kullanımı</h3>
+<ul>
+<li>Spam tespiti</li>
+<li>Uygulama geliştirme</li>
+</ul>
+<p>Veriler üçüncü taraflarla paylaşılmaz.</p>
+</div>
 
-<h2>6. Çocukların Gizliliği</h2>
-<p>XGuard, 13 yaşından küçük çocuklar için tasarlanmamıştır. 13 yaş altı kullanıcıların kişisel bilgilerini bilerek toplamayız.</p>
+<div class="section">
+<h3>4. Güvenlik</h3>
+<ul>
+<li>iOS güvenli depolama</li>
+<li>HTTPS şifreleme</li>
+</ul>
+</div>
 
-<h2>7. Değişiklikler</h2>
-<p>Bu gizlilik politikası zaman zaman güncellenebilir. Önemli değişiklikler, uygulama üzerinden veya resmi web sitemizde duyurulacaktır.</p>
+<div class="section">
+<h3>5. İletişim</h3>
+<p>support@xguard.app</p>
+</div>
 
-<h2>8. İletişim</h2>
-<p>Gizlilik politikamız veya veri işlemlerimizle ilgili sorularınız için: <a href="mailto:support@xguard.com">support@xguard.com</a></p>
+<!-- KULLANIM KOŞULLARI -->
+
+<h2>📜 Kullanım Koşulları</h2>
+
+<div class="section">
+<h3>1. Kabul</h3>
+<p>Uygulamayı kullanarak bu koşulları kabul etmiş sayılırsınız.</p>
+</div>
+
+<div class="section">
+<h3>2. Amaç</h3>
+<p>XGuard, SMS mesajlarını spam olarak sınıflandırır.</p>
+<p><strong>Not:</strong> Engelleme işlemi iOS tarafından yapılır.</p>
+</div>
+
+<div class="section">
+<h3>3. Lisans</h3>
+<ul>
+<li>Kopyalama yasaktır</li>
+<li>Tersine mühendislik yasaktır</li>
+<li>Yasadışı kullanım yasaktır</li>
+</ul>
+</div>
+
+<div class="section">
+<h3>4. Kullanıcı Sorumluluğu</h3>
+<ul>
+<li>Sadece kendi cihazında kullan</li>
+<li>Yasalara uygun hareket et</li>
+</ul>
+</div>
+
+<div class="section">
+<h3>5. AI Özelliği</h3>
+<ul>
+<li>İnternet gerektirir</li>
+<li>%100 doğruluk garanti edilmez</li>
+</ul>
+</div>
+
+<div class="section">
+<h3>6. Sorumluluk Reddi</h3>
+<p>Uygulama "olduğu gibi" sunulur. Hatalardan sorumlu değildir.</p>
+</div>
+
+<div class="section">
+<h3>7. Hukuk</h3>
+<p>Türkiye Cumhuriyeti hukukuna tabidir.</p>
+</div>
+
+<div class="section">
+<h3>8. İletişim</h3>
+<p>support@xguard.app<br>
+XGuard Team</p>
+</div>
 
 </body>
 </html>
-
